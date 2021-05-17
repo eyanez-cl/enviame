@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block contenidos %}
+
+<form action="{% url 'crud:borrar_envio' identificador=identificador %}" method="POST">
+    {% csrf_token %}
+    Está seguro de eliminar el envío con Identificador = {{identificador}}?
+    <input type="submit" value="Sí">
+</form>
+
+
+{% endblock %}

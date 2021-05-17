@@ -1,0 +1,34 @@
+{
+    "ultimo_identificador": 4,
+    "envios":[
+        {
+        "fecha_nac": "1990-05-17",
+        "rut": "173645309",
+        "remitente": "estebanyañez",
+        "direccion": "holanda 1234",
+        "identificador": 1
+        },
+        {
+            "fecha_nac": "1996-05-17",
+            "rut": "1734563K",
+            "remitente": "lalolanda",
+            "direccion": "holanda 1234",
+            "identificador": 2
+
+        },
+        {
+            "fecha_nac": "2000-04-03",
+            "rut": "106342672",
+            "remitente": "james bond",
+            "direccion": "londres 1234",
+            "identificador": 3
+        },
+        {
+            "fecha_nac": "2002-01-01",
+            "rut": "2252342783",
+            "remitente": "dios",
+            "direccion": "en todas partes",
+            "identificador": 4
+        }
+    ]
+}
